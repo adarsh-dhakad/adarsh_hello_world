@@ -1,0 +1,25 @@
+{
+  "name": "adarsh_hello_world",
+  "version": "1.0.0",
+  "description": "hello ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adarsh-dhakad/adarsh_hello_world.git"
+  },
+  "keywords": [
+    "adsrsh"
+  ],
+  "author": "adarsh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adarsh-dhakad/adarsh_hello_world/issues"
+  },
+  "homepage": "https://github.com/adarsh-dhakad/adarsh_hello_world#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.77.0"
+  }
+}
